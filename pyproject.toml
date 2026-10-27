@@ -33,7 +33,7 @@ dev = [
   "pre-commit>=4.5,<5",
   "pytest>=9.0.3,<10",
   "pytest-cov>=7,<8",
-  "ruff>=0.14,<0.16",
+  "ruff>=0.14,<0.18",
   "types-pyyaml>=6.0.12,<7",
 ]
 
